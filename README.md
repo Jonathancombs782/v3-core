@@ -1,3 +1,11 @@
+> **My contributions — Jonathan Combs ([@Jonathancombs782](https://github.com/Jonathancombs782))**
+>
+> This is my fork of Uniswap v3-core. My open pull requests upstream:
+> - [PR #1128 — Remove duplicate FullMath `mulDiv` overflow test](https://github.com/Uniswap/v3-core/pull/1128)
+> - [PR #1129 — Create SECURITY.md for security policy](https://github.com/Uniswap/v3-core/pull/1129)
+>
+---
+
 # Uniswap V3
 
 [![Lint](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/Uniswap/uniswap-v3-core/actions/workflows/lint.yml)
